@@ -147,7 +147,8 @@ button {
 @media screen and (max-width: 519px) {
     h1 {
         font-size: 36px;
-        text-align: left;
+        align-self: flex-start;
+        margin-left: 20px;
     }
 
     form > div {
